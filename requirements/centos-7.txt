@@ -9,3 +9,4 @@ libselinux-python
 libyaml-devel
 cryptography
 libffi-devel
+cffi
