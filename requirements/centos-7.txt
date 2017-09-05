@@ -1,4 +1,7 @@
 epel-release
+cryptography
+libffi-devel
+cffi
 gcc
 openssl-devel
 python
@@ -7,6 +10,3 @@ python-virtualenv
 redhat-rpm-config
 libselinux-python
 libyaml-devel
-cryptography
-libffi-devel
-cffi
