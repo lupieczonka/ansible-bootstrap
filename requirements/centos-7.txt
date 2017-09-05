@@ -7,3 +7,5 @@ python-virtualenv
 redhat-rpm-config
 libselinux-python
 libyaml-devel
+cryptography
+libffi-devel
